@@ -36,4 +36,4 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/sorting-visualizer.git
+    https://github.com/charitha1106/SORTING-VISUALIZER.git
