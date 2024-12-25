@@ -43,3 +43,11 @@ Ensure you have the following installed on your system:
 3. Open the project in your browser:
     - Open index.html directly in your browser.
     - Or use a local server to serve the files (recommended for a better development experience).
+  
+### Usage
+- Launch the application in your browser.
+- Select a sorting algorithm from the dropdown menu.
+- Click "Generate Array" to create a new random array.
+- Adjust the speed slider to control the animation speed.
+- Click "Sort" to visualize the sorting process.
+- Reset or change the input to explore different scenarios.
