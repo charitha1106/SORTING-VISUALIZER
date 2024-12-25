@@ -37,3 +37,9 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
    ```bash
     https://github.com/charitha1106/SORTING-VISUALIZER.git
+2. Navigate to the project directory:
+   ```bash
+    cd sorting-visualizer
+3. Open the project in your browser:
+    - Open index.html directly in your browser.
+    - Or use a local server to serve the files (recommended for a better development experience).
