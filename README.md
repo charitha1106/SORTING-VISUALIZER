@@ -51,3 +51,7 @@ Ensure you have the following installed on your system:
 - Adjust the speed slider to control the animation speed.
 - Click "Sort" to visualize the sorting process.
 - Reset or change the input to explore different scenarios.
+
+### Demo
+ [Link Text](https://www.loom.com/share/4ec2d3fc46974465be9309f59a50f0f4?sid=2f0ab9a6-ff49-44f2-909e-c29f6f7901f2)
+
