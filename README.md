@@ -65,9 +65,11 @@ Contributions are welcome! Please follow these steps:
 
 1) Fork the repository.
 2) Create a new branch:
-   - git checkout -b feature-name
+   ```bash
+   git checkout -b feature-name
 3) Make your changes and commit them:
-   - git commit -m "Add a meaningful message"
+   ```bash
+   git commit -m "Add a meaningful message"
 4) Push to your fork and submit a pull request.
 
 Feel free to let me know if you'd like to customize any section further!
