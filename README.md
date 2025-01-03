@@ -59,3 +59,15 @@ Ensure you have the following installed on your system:
 - Adding more sorting algorithms like Heap Sort and Insertion Sort.
 - Allowing users to pause/resume animations.
 - Adding a comparison feature for sorting algorithms.
+
+### Contributing
+Contributions are welcome! Please follow these steps:
+
+1) Fork the repository.
+2) Create a new branch:
+   - git checkout -b feature-name
+3) Make your changes and commit them:
+   - git commit -m "Add a meaningful message"
+4) Push to your fork and submit a pull request.
+
+Feel free to let me know if you'd like to customize any section further!
